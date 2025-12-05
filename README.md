@@ -3,3 +3,4 @@
 ## 增加IMPORTANT.md
 
 ### emulate另一個開發者的修改(二次修改)
+### 此時呼叫是`git fetch github master`
