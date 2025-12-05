@@ -1,3 +1,3 @@
 # story begin
 
-- long long time age
+- long long time age, in the far far land, there is a beast...
